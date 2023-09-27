@@ -1,0 +1,12 @@
+.carousel-caption {
+    top: 50%;
+    right: 30%;
+    bottom: auto;
+}
+.cf{
+    color: whitesmoke;
+    padding-left: 10px;
+}
+.cd{
+    border-radius: 20px;
+}

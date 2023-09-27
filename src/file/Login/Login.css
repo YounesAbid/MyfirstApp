@@ -1,0 +1,19 @@
+.ff{
+    padding-left: 15%;
+    padding-top: 8%;
+    
+}
+.f{
+    display: flex;
+    flex-flow: wrap ;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+}
+
+
+.empty-label{
+    padding-left: 68%;
+    color: red;
+    border: red;
+}

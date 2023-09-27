@@ -1,0 +1,24 @@
+.cw{
+    flex-flow:column wrap;
+    flex: 1 25%;
+    background-color: var(--color-dark);
+  }
+
+.cz{
+  max-width: 50%;
+}
+.card {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    max-width: 100%;
+    background-color: rgba(0,0,0,0.0);
+  }
+.gg{
+    max-height: 500px;
+}
+.card-body{
+font-size: small;
+color: whitesmoke;
+  }

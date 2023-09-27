@@ -1,0 +1,10 @@
+.spp{
+    color: red;
+ }
+ .ab{
+     display: flex;
+     flex-flow : wrap;
+     align-items: center ;
+     justify-content: center;
+     color: whitesmoke;
+ }
