@@ -13,6 +13,7 @@ class Footer extends Component {
         <div className="ftt">
           <span className="fttt">
             <BsFacebook size={30} />
+            <link rel="stylesheet" href="www.googl.com" />
           </span>
           <span className="fttt">
             <BsInstagram size={30} />
