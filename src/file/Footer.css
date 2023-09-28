@@ -11,6 +11,9 @@
 padding-bottom: 20px;
 }
 .fttt{
-    padding: 10px;
-   
+    padding: 10px;   
 }
+a {
+    color: inherit; /* Use the color from the parent element (default color) */
+    text-decoration: none; /* Remove underline (if needed) */
+  }

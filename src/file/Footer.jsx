@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./Footer.css";
-import { BsFacebook, BsInstagram, BsLinkedin } from "react-icons/bs";
+import { BsFacebook, BsInstagram, BsLinkedin,BsGithub } from "react-icons/bs";
 class Footer extends Component {
   state = {};
   render() {
@@ -12,14 +12,19 @@ class Footer extends Component {
         </p>
         <div className="ftt">
           <span className="fttt">
-            <BsFacebook size={30} />
-            <link rel="stylesheet" href="www.googl.com" />
+            <a href="https://www.facebook.com/younes.abid.984" target="_blank"><BsFacebook size={30} />
+           </a>            
           </span>
           <span className="fttt">
-            <BsInstagram size={30} />
+          <a href="https://instagram.com/younesabiid" target="_blank"><BsInstagram size={30} /> 
+           </a>          
           </span>
           <span className="fttt">
-            <BsLinkedin size={30} />
+          <a href="https://www.linkedin.com/in/younes-abid-b311a9280" target="_blank"><BsLinkedin size={30} />
+           </a>         
+          </span> <span className="fttt">
+          <a href="https://github.com/YounesAbid" target="_blank"><BsGithub size={30} />
+           </a>         
           </span>
         </div>
       </footer>
